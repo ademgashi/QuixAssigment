@@ -1,6 +1,6 @@
 # Quix Backend Coding Challenge
 
-This is Synetec's basic API developer assessment.
+This Quix C# developer assessment.
 
 If you are reading this, you most probably have been asked to complete this assessment as part of Quix Technical challenge on interview process.
 
