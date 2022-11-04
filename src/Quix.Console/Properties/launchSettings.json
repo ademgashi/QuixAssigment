@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QuixAssigment": {
+      "commandName": "Project",
+      "commandLineArgs": "palindrome=sqrrqabccbatudefggfedvwhijkllkjihxymnnmzpop"
+    }
+  }
+}
